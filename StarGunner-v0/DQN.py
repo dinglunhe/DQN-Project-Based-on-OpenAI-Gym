@@ -1,6 +1,3 @@
-# -*- coding: UTF-8 -*-
-
-
 import numpy as np
 from keras.layers import Dense, Activation, Convolution2D, MaxPooling2D, Flatten
 from keras.models import Sequential

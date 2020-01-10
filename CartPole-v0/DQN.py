@@ -1,5 +1,3 @@
-# -*- coding: UTF-8 -*-
-
 import numpy as np
 from keras.layers import Dense, Activation
 from keras.models import Sequential
